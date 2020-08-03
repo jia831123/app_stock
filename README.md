@@ -6,18 +6,6 @@ http://118.163.96.191/pre/app_stock/app_stock/dist/
 
 ## Project setup
 ```
-npm install
+Crt+V
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
